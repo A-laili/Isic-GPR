@@ -1,6 +1,7 @@
 # ISIC GPR - Frontend
 
-Ce référentiel contient le code source du frontend de l'application ISIC GPR. L'objectif principal de ce projet est de fournir une interface utilisateur conviviale pour la gestion des ressources de l'ISIC.
+Ce référentiel contient le code source du frontend de l'application ISIC GPR. 
+L'objectif principal de ce projet est de fournir une interface utilisateur conviviale pour la gestion des ressources de l'ISIC.
 
 ## Configuration requise
 
